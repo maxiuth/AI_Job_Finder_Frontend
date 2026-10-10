@@ -26,3 +26,4 @@ dist-ssr
 *.sw?
 
 .env
+/AI_Job_Finder_Backend/
